@@ -1,1 +1,1 @@
-# CanvasCraft
+# PixoPalette
